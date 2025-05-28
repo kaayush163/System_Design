@@ -59,7 +59,7 @@ int main() {
     // Only flying birds can fly
     letBirdFly(sparrow);
 
-   // letBirdFly(penguin); // ❌ This won't compile, which is good - LSP preserved!
+    // letBirdFly(penguin); // ❌ This won't compile, which is good - LSP preserved!
 
     return 0;
 }
